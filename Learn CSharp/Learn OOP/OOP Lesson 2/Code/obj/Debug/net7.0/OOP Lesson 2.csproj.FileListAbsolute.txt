@@ -1,0 +1,15 @@
+D:\Code\Lean_Game\Learn\OOP Lesson 2\Code\bin\Debug\net7.0\OOP Lesson 2.exe
+D:\Code\Lean_Game\Learn\OOP Lesson 2\Code\bin\Debug\net7.0\OOP Lesson 2.deps.json
+D:\Code\Lean_Game\Learn\OOP Lesson 2\Code\bin\Debug\net7.0\OOP Lesson 2.runtimeconfig.json
+D:\Code\Lean_Game\Learn\OOP Lesson 2\Code\bin\Debug\net7.0\OOP Lesson 2.dll
+D:\Code\Lean_Game\Learn\OOP Lesson 2\Code\bin\Debug\net7.0\OOP Lesson 2.pdb
+D:\Code\Lean_Game\Learn\OOP Lesson 2\Code\obj\Debug\net7.0\OOP Lesson 2.csproj.AssemblyReference.cache
+D:\Code\Lean_Game\Learn\OOP Lesson 2\Code\obj\Debug\net7.0\OOP Lesson 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Lean_Game\Learn\OOP Lesson 2\Code\obj\Debug\net7.0\OOP Lesson 2.AssemblyInfoInputs.cache
+D:\Code\Lean_Game\Learn\OOP Lesson 2\Code\obj\Debug\net7.0\OOP Lesson 2.AssemblyInfo.cs
+D:\Code\Lean_Game\Learn\OOP Lesson 2\Code\obj\Debug\net7.0\OOP Lesson 2.csproj.CoreCompileInputs.cache
+D:\Code\Lean_Game\Learn\OOP Lesson 2\Code\obj\Debug\net7.0\OOP Lesson 2.dll
+D:\Code\Lean_Game\Learn\OOP Lesson 2\Code\obj\Debug\net7.0\refint\OOP Lesson 2.dll
+D:\Code\Lean_Game\Learn\OOP Lesson 2\Code\obj\Debug\net7.0\OOP Lesson 2.pdb
+D:\Code\Lean_Game\Learn\OOP Lesson 2\Code\obj\Debug\net7.0\OOP Lesson 2.genruntimeconfig.cache
+D:\Code\Lean_Game\Learn\OOP Lesson 2\Code\obj\Debug\net7.0\ref\OOP Lesson 2.dll
